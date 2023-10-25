@@ -1,6 +1,5 @@
 package test_mavenTests;
 
-import org.testng.annotations.Test;
 
 public class JavaVersionTest {
 
