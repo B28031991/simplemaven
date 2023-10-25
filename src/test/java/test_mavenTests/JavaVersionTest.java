@@ -4,7 +4,6 @@ import org.testng.annotations.Test;
 
 public class JavaVersionTest {
 
-	@Test
 	public static void main(String args[]) {
 		System.out.println("Hi from Maven project");
 	}
